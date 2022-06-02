@@ -10,8 +10,8 @@ import (
 	"html/template"
 	"net/http"
 
-	"github.com/gin-gonic/gin/internal/bytesconv"
-	"github.com/gin-gonic/gin/internal/json"
+	"github.com/deepakgupta0212/gin1.7/internal/bytesconv"
+	"github.com/deepakgupta0212/gin1.7/internal/json"
 )
 
 // JSON contains the given interface object.
