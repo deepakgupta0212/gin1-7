@@ -14,7 +14,7 @@ import (
 	"strings"
 	"testing"
 
-	testdata "github.com/gin-gonic/gin/testdata/protoexample"
+	testdata "github.com/deepakgupta0212/gin1-7/testdata/protoexample"
 	"github.com/stretchr/testify/assert"
 	"google.golang.org/protobuf/proto"
 )
