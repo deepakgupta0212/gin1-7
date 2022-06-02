@@ -2,6 +2,8 @@ module github.com/deepakgupta0212/gin1-7
 
 go 1.18
 
+replace github.com/gin-gonic/gin => github.com/deepakgupta0212/gin1-7
+
 require (
 	github.com/gin-contrib/sse v0.1.0
 	github.com/go-playground/validator/v10 v10.11.0
