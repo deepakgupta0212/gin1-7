@@ -1,4 +1,4 @@
-module github.com/deepakgupta0212/gin1.7
+module github.com/deepakgupta0212/gin1-7
 
 go 1.18
 

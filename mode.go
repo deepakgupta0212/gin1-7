@@ -9,7 +9,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/deepakgupta0212/gin1.7/binding"
+	"github.com/deepakgupta0212/gin1-7/binding"
 )
 
 // EnvGinMode indicates environment name for gin mode.

@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/deepakgupta0212/gin1.7"
+	"github.com/deepakgupta0212/gin1-7"
 )
 
 var once sync.Once
